@@ -1,0 +1,13 @@
+got log git diff
+
+using logical commits can be a saver of time and frustration,
+try to do commits that are not to small so you can avoid to many files,
+  not to large that you cannot see the diff. maybe think in modular
+
+git checkout a8ljlkjdljoijljsdj;al
+git diff 7798hljl jljlj
+git log returns last five commits scroll for more
+q Q for quit
+right clicks for copy and paste
+
+version control allows you to check old code and compare changes with highlight
